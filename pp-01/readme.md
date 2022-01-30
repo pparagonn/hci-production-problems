@@ -26,7 +26,7 @@ Let’s start with something fun: a typeface-pairing game.
    Typeface One:
      - Name: Playfair Display
      - URL: https://fonts.google.com/specimen/Playfair+Display?query=Playfair+Displa#standard-styles
-   Typeface Two:
+     Typeface Two:
      - Name: Source Sans Pro
      - URL: https://fonts.google.com/specimen/Source+Sans+Pro?query=Source+Sans+Pro#about
 
