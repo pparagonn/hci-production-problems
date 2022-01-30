@@ -34,3 +34,7 @@ h2 {
 p {
   font-family: "Source Sans Pro";
 }
+
+.quote {
+  font-style: italic;
+}
