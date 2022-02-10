@@ -23,7 +23,9 @@ I chose an the monochromatic color of orange (45 degree hue) because of the mean
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
 Your Palette URL:
+https://paletton.com/#uid=51o0u0kmQJWceUvi4PbryEu-fvU
 Your Rationale:
+I chose this adjacent color palette because of the difference in between the orangeness throughout the colors. Since it is a springtime tour it invites the audience to feel a sense of Happiness and hope alongside happiness and vitality.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
