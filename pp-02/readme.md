@@ -16,7 +16,9 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
 Your Palette URL:
+https://paletton.com/#uid=10I0u0kvsq2lAwGrCuQ-rliI2g4
 Your Rationale:
+I chose an the monochromatic color of orange (45 degree hue) because of the meaning of the color orange and because of the current gaming console market. Xbox uses green, PS5 uses blue, and Switch (Nintendo) uses red. Therefore, selecting a different color that signifies Energy and Happiness will envoke a feeling of excitement of video games to entice the target audience of this website to read through the website... and hopefully purchase the console.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
