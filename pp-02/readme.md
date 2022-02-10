@@ -37,6 +37,6 @@ I choose this triadic color palette because it resembles very foundational color
 4. A **custom color palette** for advertising a course on cybersecurity
 
 Your Palette URL:
-https://paletton.com/#uid=13X0u0kurdUa1C0m2jIFoacWg36
+https://paletton.com/#uid=a3X4G0ktQeva1C0lzktyCdEWg36
 Your Rationale:
-I've chosen to use a combination that utilizes dark blue, black and purple to stimulate the idea of anonymity and evil. However, it is not primarily black as well for that reason. The bigger colors will be blue and purple to still have a brighter effect to showcase the positive side of a cybersecurity course which is to do good and not bad in the realm of cybersecurity. 
+I've chosen to use a combination that utilizes dark blue, black and purple to stimulate the idea of anonymity and evil. However, it is not primarily black as well for that reason. The bigger colors will be blue and purple to still have a brighter effect to showcase the positive side of a cybersecurity course which is to do good and not bad in the realm of cybersecurity.
