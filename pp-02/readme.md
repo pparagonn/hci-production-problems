@@ -30,7 +30,9 @@ I chose this adjacent color palette because of the difference in between the ora
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
 Your Palette URL:
+https://paletton.com/#uid=33w0P0kxp++kc+mqh+WUB+VZECq
 Your Rationale:
+I choose this triadic color palette because it resembles very foundational colors. It provides that easy identification and bright feeling especially for kids who use colors to associate knowledge and thus can feel a more comfortable soft feeling. 
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
