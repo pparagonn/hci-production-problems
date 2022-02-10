@@ -32,9 +32,11 @@ I chose this adjacent color palette because of the difference in between the ora
 Your Palette URL:
 https://paletton.com/#uid=33w0P0kxp++kc+mqh+WUB+VZECq
 Your Rationale:
-I choose this triadic color palette because it resembles very foundational colors. It provides that easy identification and bright feeling especially for kids who use colors to associate knowledge and thus can feel a more comfortable soft feeling. 
+I choose this triadic color palette because it resembles very foundational colors. It provides that easy identification and bright feeling especially for kids who use colors to associate knowledge and thus can feel a more comfortable soft feeling.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
 Your Palette URL:
+https://paletton.com/#uid=13X0u0kurdUa1C0m2jIFoacWg36
 Your Rationale:
+I've chosen to use a combination that utilizes dark blue, black and purple to stimulate the idea of anonymity and evil. However, it is not primarily black as well for that reason. The bigger colors will be blue and purple to still have a brighter effect to showcase the positive side of a cybersecurity course which is to do good and not bad in the realm of cybersecurity. 
