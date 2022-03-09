@@ -29,8 +29,8 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL):https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
+* Describe how you implemented that guideline in your sketch: I used a segmented control from the apple Human Interface Guidelines for navigation bars. It flattens the apps information hierarchy so that it always visible to the user and doesn't have to swipe out from the left hand side and interrupt the process of filling out the form.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
