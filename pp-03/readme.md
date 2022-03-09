@@ -35,8 +35,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline Two (URL):https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/terminology/
 * Describe how you implemented that guideline in your sketch: I think this form is way too long for the amount of information is needed. Why does it need to collection prefix, suffix, and middle name for the account information. As long as they have a unique identified which in this case would be their phone number it should be okay. Apple states "Keep interface text clear and concise"... by adding more of these options and clutter it makes the form seem intimidating.  
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL):https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/
+* Describe how you implemented that guideline in your sketch: Apple suggests to use a filled button for the most likely action view. Although the form already does this it does not offer the two sets of options via buttons. Since the preffered action is to attempt to create account assuming they can logically understand that filling out the information on the form is obviously create another account they will most likely need to submit. However, in the case that they misunderstood, they can click the newly UNFILLED button under that says cancel. This button could take them to the login page instead or something of the sorts.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
