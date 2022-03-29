@@ -25,16 +25,16 @@ you to take a survey, which you can take or just skip. Finally, create a new rep
 organization. Initializing it on GitHub with a `README.md` file is fine, unless you’ve already begun
 a repository on a team member’s computer. **That will be your shared repository for Project Two.**
 
-3. Copy and paste the URL for your team’s GitHub organization here:
+3. Copy and paste the URL for your team’s GitHub organization here: https://github.com/ITMD362-Team-BEJJ
 
-4. Copy and paste the URL showing your team’s GitHub organization members here:
+4. Copy and paste the URL showing your team’s GitHub organization members here: https://github.com/orgs/ITMD362-Team-BEJJ/people
 
-5. Copy and paste the URL for your team’s shared repository for Project Two here:
+5. Copy and paste the URL for your team’s shared repository for Project Two here: https://github.com/ITMD362-Team-BEJJ/project2
 
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
-Copy and paste the URL for your personal fork of the repository here:
+Copy and paste the URL for your personal fork of the repository here: https://github.com/pparagonn/project2
 
 7. Each member of the team should clone their forked copy of the repository to their local
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
@@ -48,7 +48,7 @@ strengths. Prior to creating the `self-intro` branch, be sure to pull from the r
 pull upstream main`) to get any other team members’ names and strengths. Add and commit your own
 work, and push to your own repository (`git push origin self-intro`).
 
-Copy and paste the URL of your pull request here:
+Copy and paste the URL of your pull request here: https://github.com/ITMD362-Team-BEJJ/project2/pull/3
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
